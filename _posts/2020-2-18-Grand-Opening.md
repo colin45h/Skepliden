@@ -3,7 +3,7 @@ layout: post
 title: Learning // What to Expect
 published: true
 ---
-### Introduction
+## BIO BIO BIO in this box tell people what the writing is going to be about. Does h2 look good here or is h3 the move? Even h4?
 
 Okay, so I finally got this thing set up, and now it's just a matter of figuring out what to write about and post. I'm kind of new to this whole thing, considering I've never kept a daily journal, and the fact that I literally just forked this web layout from someone much more comfortable with the Jekyll API and such. In the future I plan to make something a little more true to me and/or something that fits what I'm going to post a little bit better.
 
@@ -13,7 +13,7 @@ I'm honestly looking back at this and cringing.. Whenever I write essays and art
     
 But how the hell do you indent a paragraph!? It really shouldn't be that hard, but I can't seem to figure out the way to do it with this formatting. Markdown is cool, but my knowledge of it really reflects what work I have to do on this site, on top of the content I'm going to post on it. Speaking of which, as my first post it would only be fair to address what I plan to do with the site going forward, from content to interface updates. Allow me to flex the formatting I _do_ know:  
 
-### Content / Posting
+#### Content / Posting
 
 - Music (Audio + Video Form, Me playing guitar, A new trap beat I made for a friend, or something I'm seriously producing. Really just whatever music is in my head, whether it be mine or not.)
 - Writing (Maybe there's something I really want to write an analysis of or something in the world that I need to give my own take on, sounds really weird but you'll get it sooner or later.)
