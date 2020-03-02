@@ -3,6 +3,8 @@ layout: post
 title: Learning // What to Expect
 published: true
 ---
+### Introduction
+
 Okay, so I finally got this thing set up, and now it's just a matter of figuring out what to write about and post. I'm kind of new to this whole thing, considering I've never kept a daily journal, and the fact that I literally just forked this web layout from someone much more comfortable with the Jekyll API and such. In the future I plan to make something a little more true to me and/or something that fits what I'm going to post a little bit better.
 
 I'm honestly looking back at this and cringing.. Whenever I write essays and articles for the school everything usually flows and sounds filled with voice and clever and good and why is this not like that? Now thinking about it, a _blog_ (hate that word) is really just a HUGE reflection of voice. That's pretty much all it is, which could actually make this more challenging than I thought. However, with time I think things could all work out, as I'll get used to this way of writing and maybe learn how _markdown_ works. I mean, I have some of it on lock down, like bolding, italicizing, and a few other things.
