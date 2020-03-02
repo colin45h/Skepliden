@@ -3,7 +3,7 @@ layout: post
 title: Learning // What to Expect
 published: true
 ---
-## BIO BIO BIO in this box tell people what the writing is going to be about. Does h2 look good here or is h3 the move? Even h4?
+#### Laying out what to expect on this site, what I plan to do with it, post on it, etc. My first post, and really nothing that interesting. Feel free to skip this one.
 
 Okay, so I finally got this thing set up, and now it's just a matter of figuring out what to write about and post. I'm kind of new to this whole thing, considering I've never kept a daily journal, and the fact that I literally just forked this web layout from someone much more comfortable with the Jekyll API and such. In the future I plan to make something a little more true to me and/or something that fits what I'm going to post a little bit better.
 
