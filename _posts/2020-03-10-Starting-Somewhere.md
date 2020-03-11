@@ -1,7 +1,7 @@
 ---
 layout: post
-published: true
 title: Starting Somewhere
+published: true
 ---
 #### I finally got something!
 
