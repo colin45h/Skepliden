@@ -11,4 +11,4 @@ Skepliden is a place to get away from all of that. A place where I can post what
 
 On that note, if I sent you this URL, and you're reading this right now knowing full well who the one typing is, then you're either really cool or you're a college admissions officer. Not saying that college admissions officers aren't cool..
 
-Anyway, enjoy the site I guess. Ha det !
+Anyway, enjoy the site I guess. Ha det.
