@@ -1,8 +1,7 @@
 ---
-published: true
-title: Absence // Motivation
-type: post
 layout: post
+title: Absence // Motivation
+published: true
 ---
 ### An Excuse?
 
