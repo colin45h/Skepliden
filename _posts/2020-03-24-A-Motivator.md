@@ -13,6 +13,6 @@ So I guess this is an apology to myself, and a self motivator. It's time to turn
 
 I'm going to write, learn, make, or develop, something. This is that update I talked about in that last post. __Something is going to get done, hopefully for real this time.__
 
-I'll be posting _something_ about my endeavors in the near future.
+I'll be posting *something* about my endeavors in the near future.
 
 Ser deg senere !
