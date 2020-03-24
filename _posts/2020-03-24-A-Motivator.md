@@ -2,6 +2,7 @@
 published: true
 title: Absence // Motivation
 type: post
+layout: post
 ---
 ### An Excuse?
 
