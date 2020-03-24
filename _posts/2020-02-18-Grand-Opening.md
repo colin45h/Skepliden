@@ -31,4 +31,4 @@ Why am I putting all this effort into a site that I don't really want anyone to 
 
 If you're reading this, wow, you're here early. Or you scrolled to the bottom of my posts? Either way, I'm glad you're here, and thanks for sticking around.
 
-Peace!
+Ha det !
