@@ -11,8 +11,4 @@ Skepliden is a place to get away from all of that. A place where I can post what
 
 On that note, if I sent you this URL, and you're reading this right now knowing full well who the one typing is, then you're either really cool or you're a college admissions officer. Not saying that college admissions officers aren't cool..
 
-Anyway, enjoy the site I guess. Peace.
-
-### What the hell is a skepliden?
-
-I have a weird obsession with Norway. I also have a weird obsession with the word _passion_. It's only natural that I shove the word in Google Translate, and move the letters around so it's not super obvious. I'll leave it to you to figure out what I changed from the original word. Chances are you don't care enough to do it, which is fair.
+Anyway, enjoy the site I guess. Ha det !
