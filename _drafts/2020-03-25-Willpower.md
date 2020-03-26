@@ -15,7 +15,7 @@ Use these sources to gather some facts and pieces to use in the article, the int
 
 ---
 
-Willpower is often a term associated with a gym or diet, just as 
+Willpower is often a term associated with a gym or diet, just as beginning an essay with a key term is "cliché."
 
 
 Willpower:
