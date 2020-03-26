@@ -12,3 +12,7 @@ Rough Sources:
 - https://www.apa.org/helpcenter/willpower
 
 Use these sources to gather some facts and pieces to use in the article, the introduction is going to come from that and a little bit of slick thinking. Get on it !!!
+
+---
+
+Willpower is often a term associated with a gym or diet, just as 
