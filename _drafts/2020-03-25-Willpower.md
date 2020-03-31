@@ -17,6 +17,8 @@ Use these sources to gather some facts and pieces to use in the article, the int
 
 Willpower is often a term associated with a gym or diet, just as beginning an essay with a key term is "cliché." It finds itself the roadblock of the public's summer body or the reason for the movie stars success. 
 
+By definition, willpower is the "control exterted to do something or restrain impulses." 
+
 
 Willpower:
 control exerted to do something or restrain impulses.
