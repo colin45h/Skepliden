@@ -2,7 +2,7 @@
 
 ![RIP Image :(](images/icebeardraw.jpg "He do be drawing doe")
 
-###To Do
+__To Do:__
 
 - New images, more official ones lol.
 - Date format for each post.
