@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Another Update // Prelude
 published: false
 ---
 # A prelude to a few ideas coming soon, a perspective on the future, and an ode to the bullshit that goes on in our brains
@@ -21,4 +23,4 @@ Looking back at the start of this draft, I could see why I wanted to start writi
 
 Even still, I get this feeling that I'm not doing enough (which is fair considering I haven't left my house other than to work) in a few different aspects of my life, but I may just be holding myself up to too high a standard. That's one quality I'm incredibly grateful for that also upsets me beyond words. Junior Syndrome..
 
-On a side note, I never realized how cringy this website thing would turn out. Writing to no one is a lot harder than it seems, whereas school writing feels much more structured and less awkward. There have been times where I sit here in front of my screen for 15 minutes before figuring out the right way to say _hello_. Crazy man. Speaking of which, I'm out of here. Not sure what's coming next; It could be a SoundCloud cover, an update, or a whole ass essay. Either way, I'll see you then.
+On a side note, I never realized how cringy this website thing would turn out. Writing to no one is a lot harder than it seems, whereas writing for school feels much more structured and less awkward. There have been times where I sit here in front of my screen for 15 minutes before figuring out the right way to say _hello_. Crazy man. Speaking of which, I'm out of here. Not sure what's coming next; It could be a SoundCloud cover, an update, or a whole ass essay. Either way, I'll see you then.
