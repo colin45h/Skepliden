@@ -3,7 +3,7 @@ layout: post
 title: Absence // Motivation
 published: true
 ---
-#### An Excuse? My case of effects of COVID-19 on productivity.
+#### An Excuse? COVID-19 and it's effects on my productivity.
 
 Not an excuse, but something getting in my way. 
 
