@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting Somewhere
+title: All The Kids Are Depressed - Jeremy Zucker | Guitar Cover
 published: true
 ---
 #### I finally got something! Featuring a draft cover dedicated to figuring out the process of how to get my guitar out there.
