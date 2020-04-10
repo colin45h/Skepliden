@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All The Kids Are Depressed - Jeremy Zucker | Guitar Cover
+title: (3-10-20) All The Kids Are Depressed - Jeremy Zucker | Guitar Cover
 published: true
 ---
 #### I finally got something! Featuring a draft cover dedicated to figuring out the process of how to get my guitar out there.
