@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (4-14-20) Tired of this School Thing..
-published: true
+published: false
 ---
 
 #### Work, work, work, School, school, school. This is starting to get old. Time to rant.
