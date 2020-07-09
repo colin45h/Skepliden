@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (2-18-20) Learning // What to Expect
+title: (02-18-20) Learning // What to Expect
 published: true
 ---
 #### Laying out what to expect on this site, what I plan to do with it, post on it, etc. My first post, and really nothing that interesting. Feel free to skip this one.
