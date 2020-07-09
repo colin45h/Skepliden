@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (07-09-20) Long Time No See
+title: (07-09-20) Long Time No See // Summer
 published: true
 ---
 #### Hey, I'm back. It's been a minute.
