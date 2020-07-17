@@ -17,9 +17,11 @@ Ok, first with the links. I'm going to do this using Markdown to make everything
 
 Now, instead of having to click a link in order to listen to my two new "songs," there's a way I can just throw them into this site like this:
 
-<iframe src="https://open.spotify.com/track/5SQRcXGjK9RLOKFBirvxSn?si=8eF-zfbzRY-WsMagKAC7hw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5SQRcXGjK9RLOKFBirvxSn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe src="https://open.spotify.com/track/5ot8CYYmMo2Ii5fiG1fH9H?si=yV8SKIsDTBKm5_tNki9Sog" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5ot8CYYmMo2Ii5fiG1fH9H" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:43OrpaXYSmTqAC7mvPMKPO&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 
 There we go. Listen if you want, they're nothing special, but I think they're pretty good for my first and second try..
 
