@@ -3,7 +3,7 @@ layout: post
 title: Long Time No See // Summer
 published: true
 ---
-#### Hey, I'm back. It's been a minute. (07-09-20)
+#### (07-09-20) Hey, I'm back. It's been a minute.
 
 This writing comes after a few friends told me I should get more out on this site, which yes, implies the fact that I've shared this thing with a few more people. Honestly, it's pretty out there at this point. Let me tell you what's going on; The state of this site (or brand, I should say now), and what's up with me..
 
