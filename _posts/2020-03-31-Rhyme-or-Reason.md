@@ -1,9 +1,9 @@
 ---
 layout: post
-title: (03-31-20) Another Update // Prelude
+title: Another Update // Prelude
 published: true
 ---
-#### A prelude to a few ideas coming soon, a perspective on the future, and an ode to the bullshit that goes on in our brains.
+#### A prelude to a few ideas coming soon, a perspective on the future, and an ode to the bullshit that goes on in our brains. (03-31-20)
 
 Hei everyone, I'm back with something.
 

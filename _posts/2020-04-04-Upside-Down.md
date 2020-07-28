@@ -1,10 +1,10 @@
 ---
 layout: post
-title: (04-04-20) Upside Down - Jack Johnson | Guitar Cover
+title: Upside Down - Jack Johnson | Guitar Cover
 published: true
 ---
 
-#### Another one take guitar "cover." Just feeling creative.
+#### Another one take guitar "cover." Just feeling creative. (04-04-20)
 
 I got back from a bike ride today, heard this song, and 20 minutes later had this done. Today was supposed to be a fitness goal type of day; like making a standardized workout for quarantine and stuff (Guess that'll have to be pushed to tomorrow). It's supposed to rain all day, so that leaves me with some time to get that done among other things, and hopefully just chill out and enjoy the day. See you then maybe?
 
