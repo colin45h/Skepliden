@@ -3,7 +3,7 @@ layout: post
 title: Starting Some Things // Different Avenues
 published: true
 ---
-#### (07-28-20) Just wanted to talk about some things I'm working on.
+#### (7/28/20) Just wanted to talk about some things I'm working on.
 
 I'm writing this for two reasons; One, that by getting everything I'm working on down on paper I'll be able to lead a more organized life so to speak, and Two, that by getting these things down I'll commit to them more. If I wrote it for myself and others to see, I have to get it done. So let's get started.
 
